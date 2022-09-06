@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\SummerPractice\SummerPractiseAnimation\ConsoleApplication1\Sphere.h(106,65): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Admin\Desktop\SummerPractice\SummerPractiseAnimation\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
